@@ -118,10 +118,10 @@ class Toplevel1:
         self.Frame1.configure(highlightbackground="#d9d9d9")
         self.Frame1.configure(highlightcolor="black")
 
-        self.voice=tk.Button(self.Frame1)
-        self.voice.place(x=2,y=5)
-        self.voice.configure(background="white",border=0)
-        self.voice.configure(text="Enable Voice search")
+#         self.voice=tk.Button(self.Frame1)
+#         self.voice.place(x=2,y=5)
+#         self.voice.configure(background="white",border=0)
+#         self.voice.configure(text="Enable Voice search")
         
         self.clicked=[]
         self.Button1_1 = tk.Button(self.Frame1)
