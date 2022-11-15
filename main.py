@@ -1,4 +1,3 @@
-import pyttsx3
 import datetime
 import sys
 import mendeleev
