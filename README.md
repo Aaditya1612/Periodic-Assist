@@ -40,3 +40,14 @@ This project is totally based on Python and it's libraries.
 <img src="https://github.com/Aaditya1612/Periodic-Assist/blob/main/Screenshot/ss3.jpeg" alt="screenshot_4">
 
 <br>
+
+# 💻 To run it on your machine:
+
+  Clone this repository into your local machine
+  
+  Open terminal and navigate to local directory of this project using `cd /..`
+  
+  Then, execute `pip3 install -r requirements.txt` into your terminal to install all the required libraries.
+  
+  After the successfull installation of all the packages, execute `python3 main.py`
+  
